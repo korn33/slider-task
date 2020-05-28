@@ -15,8 +15,9 @@ export const initialSlideHTML = `
         <span class="mgo-widget-call_pulse"></span><p class='HbAlc'>Цель по HbAlc</p>
         <span class="mgo-widget-call_pulse_Gipoglikemia"></span><p class='Gipoglikemia'>Гипогликимия</p>
         <p class="go_to_bottom">Листайте вниз</p>       
-        <img class="arrow" src="./img/arrow.png">
-        <div class="shadow"></div>
+        <img class="arrow" src="./img/arrow.png" alt="">
+        <img class="Ellipse_4" src="./img/Ellipse_4.png" alt="">
+        <img class="Rectangle_5" src="./img/Rectangle_5.png" alt="">
     </div>
 `;
 

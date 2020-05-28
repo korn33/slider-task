@@ -25,7 +25,8 @@ export const changeSlide = (numberSlide) => {
                                 <img class="ice_2" src="./img/ice_2.png" alt="">
                                 <p class="go_to_bottom">Листайте вниз</p>       
                                 <img class="arrow" src="./img/arrow.png" alt="">
-                                <div class="shadow"></div>
+                                <img class="Ellipse_4" src="./img/Ellipse_4.png" alt="">
+                                <img class="Rectangle_5" src="./img/Rectangle_5.png" alt="">
                             </div>
             `;
             itemSlide.innerHTML = currentSlide;

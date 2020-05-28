@@ -222,7 +222,7 @@ body {
     display: flex;
     flex-direction: column;
     position: absolute;
-    left: 92%;
+    left: 95%;
     top: 40%;
 
 }
@@ -295,5 +295,18 @@ body {
     position: absolute;
     bottom: 0;
     right: 0;
-    z-index: -5;
+    z-index: -10;
+}
+.Ellipse_4 {
+     position: absolute;
+     bottom: 0;
+     left: 280px;
+     z-index: -5;
+ }
+
+.Rectangle_5 {
+    position: absolute;
+    bottom: 0;
+    left: 30px;
+    z-index: -6;
 }
